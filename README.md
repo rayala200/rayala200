@@ -9,9 +9,9 @@ I'm a computer science graduate passionate about building my portfolio and creat
 - 🎮 Love playing video games and Exploring
 
 ## Get in Touch
-- [LinkedIn](www.linkedin.com/in/robert-ayala-3178b62a1)
+- [LinkedIn](https://www.linkedin.com/in/robert-ayala-3178b62a1)
 
-- [Email](rayala760@gmail.com)
+- [Email](mailto:rayala760@gmail.com)
 
 <!---
 rayala200/rayala200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
