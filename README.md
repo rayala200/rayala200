@@ -5,7 +5,7 @@ I'm a computer science graduate passionate about building my portfolio and creat
 ## About Me
 - 🎓 Computer Science graduate from Arizona State University (ASU)
 - 🌟 Interested in web development, graphics programming, and DevOps
-- ☕️ I work at PaneraBread and manage their Instagram account!
+- ☕️ I work as datacenter Technician!
 - 🎮 Love playing video games and Exploring
 
 ## Get in Touch
